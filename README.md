@@ -93,6 +93,12 @@ Structured CRM Lead Data
         │
         ▼
 ┌───────────────┐
+│ Backend       │
+│ PostgreSQL    │
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
 │ Structured    │
 │ Lead Data     │
 └───────────────┘
